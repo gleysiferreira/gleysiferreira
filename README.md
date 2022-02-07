@@ -46,13 +46,13 @@ Welcome to my GitHub page.
 <br>
 
 ## **GitHub Estatísticas**
-<a href="https://github.com/gleysiF">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gleysiF&show_icons=true&theme=Synthwave&line_height=27" alt="GLEYSI FERREIRA github stats"/>
+<a href="https://github.com/gleysiferreira">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=gleysiferreira&show_icons=true&theme=Synthwave&line_height=27" alt="GLEYSI FERREIRA github stats"/>
 </a>
 <br>
 <br>
 
-<a href="https://github.com/gleysiF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleysiF&theme=Synthwave&hide_langs_below=1" alt="GLEYSI FERREIRA github stats"/>
+<a href="https://github.com/gleysiferreira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleysiferreira&theme=Synthwave&hide_langs_below=1" alt="GLEYSI FERREIRA github stats"/>
 </a>
 

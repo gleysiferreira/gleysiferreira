@@ -61,5 +61,5 @@ Welcome to my GitHub page.
 
 
 <a href="https://github.com/gleysiferreira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleysiferreira&theme=Synthwave&hide_langs_below=1" alt="GLEYSI FERREIRA github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleysiferreira&theme=gruvbox&hide_langs_below=1" alt="GLEYSI FERREIRA github stats"/>
 </a>

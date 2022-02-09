@@ -10,6 +10,8 @@ Welcome to my GitHub page.
 - 🌱 I’m currently learning HTML, CSS, Git, GitHub, React, Figma and JavaScript.
 - 📫 How to reach me:
 
+## **My Social Networks**
+
 <p align="left">
   <a href="gleysi.lcf@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
@@ -46,11 +48,17 @@ Welcome to my GitHub page.
 <br>
 
 ## **GitHub Estatísticas**
-<a href="https://github.com/gleysiferreira">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gleysiferreira&show_icons=true&theme=Synthwave&line_height=27" alt="GLEYSI FERREIRA github stats"/>
-</a>
+
+<br/>
+<p align="left">
+   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gleysiferreira&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gleysiferreira&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
 <br>
-<br>
+
+![Gleysi Ferreira ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=gleysiferreira&custom_title=Gleysi%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+
 
 <a href="https://github.com/gleysiferreira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleysiferreira&theme=Synthwave&hide_langs_below=1" alt="GLEYSI FERREIRA github stats"/>

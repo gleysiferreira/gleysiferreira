@@ -8,7 +8,7 @@ Welcome to my GitHub page.
 <br>
 
 - 🌱 I’m currently learning HTML, CSS, Git, GitHub, React, Figma and JavaScript.
-- 📫 How to reach me:
+- 🎓 Studying programming at Dev Club | Video course
 
 
 ## **Linguagens e Ferramentas:**  

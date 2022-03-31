@@ -7,7 +7,7 @@ My name is Gleysi Ferreira.
 Welcome to my GitHub page.
 <br>
 
-- 🌱 I’m currently learning HTML, CSS, Git, GitHub, React, Figma and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Git, GitHub, React, Node and Figma.
 - 🎓 Studying programming at Dev Club | Video course
 
 

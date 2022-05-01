@@ -29,7 +29,7 @@ Welcome to my GitHub page.
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
   </a> 
 
-  <a href="https://www.linkedin.com/in/gleysi-ferreira-8a139022b/" alt="Linkedin" target="blank">
+  <a href="https://www.linkedin.com/in/gleysi-ferreira/" alt="Linkedin" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   

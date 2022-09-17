@@ -1,14 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Hi there 👋
-
-My name is Gleysi Ferreira.
-
-Welcome to my GitHub page.
+### Oi 👋
+Meu nome é Gleysi Ferreira.
 <br>
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Git, GitHub, React, Node and Figma.
-- 🎓 Studying programming at Dev Club | Video course
+Bem-vindo à minha página do GitHub.
+
+🌱 No momento, estou aprendendo HTML, CSS, JavaScript, Git, GitHub, React, Node e Figma.
+🎓 Estudando programação no Dev Club | Curso de vídeo
 
 
 ## **Linguagens e Ferramentas:**  

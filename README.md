@@ -7,7 +7,8 @@ Meu nome é Gleysi Ferreira.
 Bem-vindo à minha página do GitHub.
 
 🌱 No momento, estou aprendendo HTML, CSS, JavaScript, Git, GitHub, React, Node e Figma.<br>
-🎓 Estudando programação no Dev Club | Curso de vídeo
+🎓 Estudando programação no <a href="https://plataforma.devclub.com.br/area/vitrine" target="blank">DevClub</a>
+ | Curso de vídeo
 <br>
 
 ## **Linguagens e Ferramentas:**  

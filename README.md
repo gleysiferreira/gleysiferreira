@@ -6,9 +6,6 @@ Meu nome é Gleysi Ferreira.
 
 Bem-vindo à minha página do GitHub.
 
-🌱 No momento estou aprendendo HTML, CSS, JavaScript, Git, GitHub, React, Node e Figma.<br>
-🎓 Estudando programação no <a href="https://plataforma.devclub.com.br/area/vitrine" target="blank">DevClub</a>
- | Curso de vídeo
 <br>
 
 ## **Linguagens e Ferramentas:**  
@@ -62,7 +59,7 @@ Bem-vindo à minha página do GitHub.
 </p>
 <br>
 
-![Gleysi Ferreira ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=gleysiferreira&custom_title=Gleysi%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![Gleysi Ferreira ' Activity Graph] (https://activity-graph.herokuapp.com/graph?username=gleysiferreira&custom_title=Gleysi%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 
 <a href="https://github.com/gleysiferreira">

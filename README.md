@@ -6,9 +6,10 @@ Meu nome é Gleysi Ferreira.
 
 Bem-vindo à minha página do GitHub.
 
-<br>
+Fique a vontade ^^
 
 <br>
+
 
 ## **Linguagens e Ferramentas:**  
 
